@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"CHAMPVA", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":""}
+			],
+			"1a. INSURED'S I.D. NUMBER": "WVS884523182300100",
+			"2. PATIENT'S NAME": "SIGOLOFF, DAKOTA C",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"02", "DD":"22", "YY":"20"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "SIGOLOFF, BRIAN C",
+			"5. PATIENT'S ADDRESS": "255 DR BIG BEN AVE",
+			"5. PATIENT'S CITY": "SIERRAVISTA",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "833542",
+			"5. PATIENT'S TELEPHONE": "839 655-432",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "SIERRAVISTA",
+			"7. INSURED'S STATE":"IL",
+			"9. OTHER INSURED'S NAME": "SIGOLOFF, BRIAN C",
+			"9a. OTHER INSURED'S POLICY": "255444582145",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "NO"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "04245688936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "HEALTH PPO GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "22/04/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "A888",
+				"words": [
+					{
+						"word": "A888",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "R22",
+				"words": [
+					{
+						"word": "R22",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "55555999999",
+			"24. SERVICES": [
+			{"MM1":"05", "DD1":"19", "YY1":"22", "CPT/HCPCS1":"T3544", "DIAGNOSIS POINTER1":"AA", "$CHARGES1":"55|50", "UNITS1":"002"},
+			{"MM2":"04", "DD2":"12", "YY2":"23", "CPT/HCPCS2":"DF554", "DIAGNOSIS POINTER2":"BB", "$CHARGES2":"25|35", "UNITS2":"001"}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "80|50",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER KRAKENSWING 60325 a. 235411547"
+		}
+	]
+}

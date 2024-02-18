@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "Medicaid", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":""}
+			],
+			"1a. INSURED'S I.D. NUMBER": "ABV145662300789",
+			"2. PATIENT'S NAME": "LARSON, DANIELLE K",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"01", "DD":"06", "YY":"21"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "LARSON, DENNIS",
+			"5. PATIENT'S ADDRESS": "1406 CENTERPOINT OR",
+			"5. PATIENT'S CITY": "FALLON",
+			"5. PATIENT'S STATE":"OR",
+			"5. PATIENT'S ZIP CODE": "62269",
+			"5. PATIENT'S TELEPHONE": "834 655-432",
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "FALLON",
+			"7. INSURED'S STATE":"OR",
+			"9. OTHER INSURED'S NAME": "LARSON, DENNIS",
+			"9a. OTHER INSURED'S POLICY": "321123654456",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "NO"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "832568912",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "UNION PPO",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "08/14/ 019"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "G116",
+				"words": [
+					{
+						"word": "G116",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "S22",
+				"words": [
+					{
+						"word": "S22",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "Q22",
+				"words": [
+					{
+						"word": "Q22",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "Z122",
+				"words": [
+					{
+						"word": "Z122",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "88889999",
+			"24. SERVICES": [
+			{"MM1":"06", "DD1":"29", "YY1":"22", "CPT/HCPCS1":"Z2544", "DIAGNOSIS POINTER1":"BA", "$CHARGES1":"95|15", "UNITS1":"002"},
+			{"MM2":"", "DD2":"", "YY2":"", "CPT/HCPCS2":"", "DIAGNOSIS POINTER2":"", "$CHARGES2":"", "UNITS2":""}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "DR KIMBERLY HCC NORTH BAY 415256 a. 125411547"
+		}
+	]
+}

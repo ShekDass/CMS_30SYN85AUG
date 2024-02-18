@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":"ID"}
+			],
+			"1a. INSURED'S I.D. NUMBER": "GHL1245780000100",
+			"2. PATIENT'S NAME": "ROTHBERG, JONATHAN S",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"11", "DD":"16", "YY":"18"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "ROTHBERG, JACK M",
+			"5. PATIENT'S ADDRESS": "255 DR BIG BEN AVE",
+			"5. PATIENT'S CITY": "CHICAGO",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "60064",
+			"5. PATIENT'S TELEPHONE": "784 655-432",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "CHICAGO",
+			"7. INSURED'S STATE":"IL",
+			"9. OTHER INSURED'S NAME": "ROTHBERG, JACK M",
+			"9a. OTHER INSURED'S POLICY": "455896545",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "YES"},
+			{"AUTO ACCIDENT": "YES"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "0432158936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "NICK PARK GROUP ",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "22/04/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "G616",
+				"words": [
+					{
+						"word": "G616",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "R22",
+				"words": [
+					{
+						"word": "R22",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "K99",
+				"words": [
+					{
+						"word": "K99",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "K18",
+				"words": [
+					{
+						"word": "K18",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "89988888",
+			"24. SERVICES": [
+			{"MM1":"01", "DD1":"18", "YY1":"20", "CPT/HCPCS1":"T3544", "DIAGNOSIS POINTER1":"AA", "$CHARGES1":"55|50", "UNITS1":"004"},
+			{"MM2":"02", "DD2":"22", "YY2":"21", "CPT/HCPCS2":"Q45", "DIAGNOSIS POINTER2":"AG", "$CHARGES2":"82|45", "UNITS2":"001"}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "137|95",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "LINCON CENTER MILL 8TH STREET 60322 a. 834511547"
+		}
+	]
+}

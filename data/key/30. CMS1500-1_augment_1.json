@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":"ID"}
+			],
+			"1a. INSURED'S I.D. NUMBER": "SFG1241010247800",
+			"2. PATIENT'S NAME": "PRIMA, NASH",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"02", "DD":"22", "YY":"20"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "PRIMA, HELEN N",
+			"5. PATIENT'S ADDRESS": "255 DR BIG BEN AVE",
+			"5. PATIENT'S CITY": "NASHVILLE",
+			"5. PATIENT'S STATE":"NV",
+			"5. PATIENT'S ZIP CODE": "500543",
+			"5. PATIENT'S TELEPHONE": "834 283-9120",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "NASHVILLE",
+			"7. INSURED'S STATE":"NV",
+			"9. OTHER INSURED'S NAME": "PRIMA, HELEN N",
+			"9a. OTHER INSURED'S POLICY": "",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "YES"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "0222158936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "NORTH GREEN UNION ",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "06/12/2022"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "M810",
+				"words": [
+					{
+						"word": "M810",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "B20",
+				"words": [
+					{
+						"word": "B20",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "90099999",
+			"24. SERVICES": [
+			{"MM1":"04", "DD1":"14", "YY1":"23", "CPT/HCPCS1":"T3544", "DIAGNOSIS POINTER1":"AA", "$CHARGES1":"55|50", "UNITS1":"001"},
+			{"MM2":"09", "DD2":"29", "YY2":"23", "CPT/HCPCS2":"B505", "DIAGNOSIS POINTER2":"BB", "$CHARGES2":"600|10", "UNITS2":"006"}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "655|60",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER BRICK ROUTE 88 ST a. 08744"
+		}
+	]
+}

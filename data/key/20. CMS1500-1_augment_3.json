@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "Medicaid", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":""}
+			],
+			"1a. INSURED'S I.D. NUMBER": "NLT121944182300100",
+			"2. PATIENT'S NAME": "BANERJEE, NIKHIL",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"03", "DD":"13", "YY":"22"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "BANERJEE, SHUSHANT",
+			"5. PATIENT'S ADDRESS": "ST LOUIS CABIN RD 45",
+			"5. PATIENT'S CITY": "ST LOUIS",
+			"5. PATIENT'S STATE":"WA",
+			"5. PATIENT'S ZIP CODE": "822456",
+			"5. PATIENT'S TELEPHONE": "755 155-899",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "ST LOUIS",
+			"7. INSURED'S STATE":"WA",
+			"9. OTHER INSURED'S NAME": "BANERJEE, SHUSHANT",
+			"9a. OTHER INSURED'S POLICY": "789258963",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "NO"},
+			{"AUTO ACCIDENT": "YES"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "00512453245",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "TARGET NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "06/30 / 2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "T816",
+				"words": [
+					{
+						"word": "T816",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "T22",
+				"words": [
+					{
+						"word": "T22",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "R22",
+				"words": [
+					{
+						"word": "R22",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "S215",
+				"words": [
+					{
+						"word": "S215",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "998888966",
+			"24. SERVICES": [
+			{"MM1":"12", "DD1":"02", "YY1":"22", "CPT/HCPCS1":"T4464", "DIAGNOSIS POINTER1":"AB", "$CHARGES1":"25|50", "UNITS1":"001"},
+			{"MM2":"", "DD2":"", "YY2":"", "CPT/HCPCS2":"", "DIAGNOSIS POINTER2":"", "$CHARGES2":"", "UNITS2":""}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "25|50",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "VISION CARE CENTER 45 LAKEVIEW STREET 845122 a. 564511549 "
+		}
+	]
+}

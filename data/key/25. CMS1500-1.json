@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"CHAMPVA", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":"ID"}
+			],
+			"1a. INSURED'S I.D. NUMBER": "GST49956808397",
+			"2. PATIENT'S NAME": "KIEFFE, LAURA ",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"02", "DD":"08", "YY":"11"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "KIEFFE, TIMOTHY O",
+			"5. PATIENT'S ADDRESS": "255 DR BIG BEN AVE",
+			"5. PATIENT'S CITY": "SHIPPENSBURG",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "17257",
+			"5. PATIENT'S TELEPHONE": "855 233-9530",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "SHIPPENSBURG",
+			"7. INSURED'S STATE":"IL",
+			"9. OTHER INSURED'S NAME": "KIEFFE, TIMOTHY O",
+			"9a. OTHER INSURED'S POLICY": "8554224554488",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "YES"},
+			{"AUTO ACCIDENT": "YES"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "04324558936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "UNITED UNION GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "01/24/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "R811",
+				"words": [
+					{
+						"word": "R811",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "R22",
+				"words": [
+					{
+						"word": "R22",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "885599999",
+			"24. SERVICES": [
+			{"MM1":"02", "DD1":"05", "YY1":"22", "CPT/HCPCS1":"T3544", "DIAGNOSIS POINTER1":"AA", "$CHARGES1":"55|50", "UNITS1":"002"},
+			{"MM2":"04", "DD2":"06", "YY2":"22", "CPT/HCPCS2":"ZX55", "DIAGNOSIS POINTER2":"AA", "$CHARGES2":"25|45", "UNITS2":"001"}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "80|90",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "UNITED HCC SHIPPENSBURG CENTRAL SQUARE 17255 a. 235411547"
+		}
+	]
+}

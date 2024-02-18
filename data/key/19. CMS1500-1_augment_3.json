@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"FECA", "OTHER":""}
+			],
+			"1a. INSURED'S I.D. NUMBER": "NLT121944182300100",
+			"2. PATIENT'S NAME": "EDMOND, JOHN",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"01", "DD":"11", "YY":"23"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "EDMOND, TIA",
+			"5. PATIENT'S ADDRESS": "258 ST BIG SILVA DR",
+			"5. PATIENT'S CITY": "EDMOND",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "60064",
+			"5. PATIENT'S TELEPHONE": "834 655-432",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "EDMOND",
+			"7. INSURED'S STATE":"IL",
+			"9. OTHER INSURED'S NAME": "EDMOND, TIA",
+			"9a. OTHER INSURED'S POLICY": "8554491155780",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "YES"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "455668936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "KIMBERLY GROUP NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "01/24/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "R8855",
+				"words": [
+					{
+						"word": "R8855",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "T21",
+				"words": [
+					{
+						"word": "T21",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "555999",
+			"24. SERVICES": [
+			{"MM1":"02", "DD1":"29", "YY1":"23", "CPT/HCPCS1":"T3522", "DIAGNOSIS POINTER1":"AA", "$CHARGES1":"59|50", "UNITS1":"002"},
+			{"MM2":"01", "DD2":"14", "YY2":"23", "CPT/HCPCS2":"R3488", "DIAGNOSIS POINTER2":"BB", "$CHARGES2":"26|45", "UNITS2":"001"}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "85|95",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "VISION & DENTAL CARE CENTER EDMOND, ILLINOIS 73015 a. 32254311455"
+		}
+	]
+}

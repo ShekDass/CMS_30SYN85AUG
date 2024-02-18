@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"CHAMPVA", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":""}
+			],
+			"1a. INSURED'S I.D. NUMBER": "KSB441256823",
+			"2. PATIENT'S NAME": "GLUCHEN, KENT S",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"06", "DD":"23", "YY":"09"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "GLUCHEN, STUART ",
+			"5. PATIENT'S ADDRESS": "1113 NW 197TH ST",
+			"5. PATIENT'S CITY": "AUGUSTA",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "60064",
+			"5. PATIENT'S TELEPHONE": "834 655-4143",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "EDMOND",
+			"7. INSURED'S STATE":"IL",
+			"9. OTHER INSURED'S NAME": "GLUCHEN, STUART ",
+			"9a. OTHER INSURED'S POLICY": "457889511574",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "YES"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "0922158924",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "NON UNION GROUP PPO",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "11/19/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "G822",
+				"words": [
+					{
+						"word": "G822",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "T222",
+				"words": [
+					{
+						"word": "T222",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "99996666",
+			"24. SERVICES": [
+			{"MM1":"01", "DD1":"29", "YY1":"23", "CPT/HCPCS1":"S3544", "DIAGNOSIS POINTER1":"AB", "$CHARGES1":"39|25", "UNITS1":"001"},
+			{"MM2":"", "DD2":"", "YY2":"", "CPT/HCPCS2":"", "DIAGNOSIS POINTER2":"", "$CHARGES2":"", "UNITS2":""}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "39|25",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER AUGUSTA STREET 45TH 60069 a. 834511548"
+		}
+	]
+}

@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"CHAMPVA", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":""}
+			],
+			"1a. INSURED'S I.D. NUMBER": "ZBT1219441124578",
+			"2. PATIENT'S NAME": "CARLSON, ROCHELLE",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"02", "DD":"22", "YY":"20"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "CARLSON, WENDY M",
+			"5. PATIENT'S ADDRESS": "1430 HARPER STREET",
+			"5. PATIENT'S CITY": "AUGUSTA",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "30901",
+			"5. PATIENT'S TELEPHONE": "834 655-432",
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "AUGUSTA",
+			"7. INSURED'S STATE":"IL",
+			"9. OTHER INSURED'S NAME": "CARLSON, WENDY M",
+			"9a. OTHER INSURED'S POLICY": "255449511574",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "NO"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "126589322",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "NATIONAL HEALTH ",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "05/18/2021"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "Q874",
+				"words": [
+					{
+						"word": "Q874",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "S144",
+				"words": [
+					{
+						"word": "S144",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "5444449999",
+			"24. SERVICES": [
+			{"MM1":"08", "DD1":"18", "YY1":"22", "CPT/HCPCS1":"C3544", "DIAGNOSIS POINTER1":"AC", "$CHARGES1":"45|25", "UNITS1":"002"},
+			{"MM2":"", "DD2":"", "YY2":"", "CPT/HCPCS2":"", "DIAGNOSIS POINTER2":"", "$CHARGES2":"", "UNITS2":""}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "45|25",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "WALNUT CARE CENTER NORTH KRAKENSWING 60324 a. 834511547"
+		}
+	]
+}

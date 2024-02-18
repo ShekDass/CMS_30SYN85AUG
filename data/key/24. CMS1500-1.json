@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "Medicaid", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":"ID"}
+			],
+			"1a. INSURED'S I.D. NUMBER": "NLR1442152365411",
+			"2. PATIENT'S NAME": "FERNANDEZ, WENDY",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"05", "DD":"27", "YY":"07"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "FERNANDEZ, JENARO",
+			"5. PATIENT'S ADDRESS": "1404 LANGHAM TER",
+			"5. PATIENT'S CITY": "LAKE MARY",
+			"5. PATIENT'S STATE":"MA",
+			"5. PATIENT'S ZIP CODE": "32746",
+			"5. PATIENT'S TELEPHONE": "834 655-9507",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "LAKE MARY",
+			"7. INSURED'S STATE":"MA",
+			"9. OTHER INSURED'S NAME": "FERNANDEZ, JENARO",
+			"9a. OTHER INSURED'S POLICY": "2554224554412",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "NO"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "3452158922",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "NON PPO GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "01/24/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "T88",
+				"words": [
+					{
+						"word": "T88",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "R18",
+				"words": [
+					{
+						"word": "R18",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "Q322",
+				"words": [
+					{
+						"word": "Q322",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "955559299",
+			"24. SERVICES": [
+			{"MM1":"12", "DD1":"14", "YY1":"22", "CPT/HCPCS1":"C855", "DIAGNOSIS POINTER1":"BB", "$CHARGES1":"98|58", "UNITS1":"003"},
+			{"MM2":"", "DD2":"", "YY2":"", "CPT/HCPCS2":"", "DIAGNOSIS POINTER2":"", "$CHARGES2":"", "UNITS2":""}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "98|58",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "HCC DENTISTREE MARYLAND, 45TH AVE 32755 a. 235411547"
+		}
+	]
+}

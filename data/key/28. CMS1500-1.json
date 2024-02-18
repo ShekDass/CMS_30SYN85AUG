@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"FECA", "OTHER":""}
+			],
+			"1a. INSURED'S I.D. NUMBER": "FGG12194418230105",
+			"2. PATIENT'S NAME": "KWANSIK, JESSICA",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"12", "DD":"02", "YY":"94"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "KWANSIK, RICHARD M",
+			"5. PATIENT'S ADDRESS": "5722 38TH STREET",
+			"5. PATIENT'S CITY": "BRIGANTINE",
+			"5. PATIENT'S STATE":"NE",
+			"5. PATIENT'S ZIP CODE": "082033",
+			"5. PATIENT'S TELEPHONE": "755 73-5714",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "BRIGANTINE",
+			"7. INSURED'S STATE":"NE",
+			"9. OTHER INSURED'S NAME": "KWANSIK, RICHARD M",
+			"9a. OTHER INSURED'S POLICY": "7741224554412",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "NO"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "0530198845",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "PARCEL UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "01/24/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "S321",
+				"words": [
+					{
+						"word": "S321",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "S55",
+				"words": [
+					{
+						"word": "S55",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "99999666",
+			"24. SERVICES": [
+			{"MM1":"02", "DD1":"22", "YY1":"23", "CPT/HCPCS1":"S3544", "DIAGNOSIS POINTER1":"AA", "$CHARGES1":"55|50", "UNITS1":"002"},
+			{"MM2":"09", "DD2":"16", "YY2":"23", "CPT/HCPCS2":"Q5512", "DIAGNOSIS POINTER2":"AA", "$CHARGES2":"480|00", "UNITS2":"006"}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "823258976522",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "535|50",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER KRAKENSWING 082031 a. 48852789"
+		}
+	]
+}

@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.": [
+			{"MEDICARE": "", "MEDICAID": "", "TRICARE CHAMPUS": "", "CHAMPVA":"", "GROUP HEALTH PLAN":"", "FECA":"", "OTHER":"ID"}
+			],
+			"1a. INSURED'S I.D. NUMBER": "GTZ499568002445",
+			"2. PATIENT'S NAME": "JONES, BRITTANY K",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"05", "DD":"19", "YY":"97"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "JONES, ROBERT",
+			"5. PATIENT'S ADDRESS": "255 DR BIG BEN AVE",
+			"5. PATIENT'S CITY": "DETROIT",
+			"5. PATIENT'S STATE":"MI",
+			"5. PATIENT'S ZIP CODE": "60064",
+			"5. PATIENT'S TELEPHONE": "834 655-432",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS":"",
+			"7. INSURED'S CITY": "CLEVELAND",
+			"7. INSURED'S STATE":"OH",
+			"9. OTHER INSURED'S NAME": "JOSHUA, PATRICK",
+			"9a. OTHER INSURED'S POLICY": "200144554412",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"EMPLOYMENT": "YES"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "8500015897",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "KROGE GROUP NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "01/24/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ILLNESS A.",
+				"text": "B816",
+				"words": [
+					{
+						"word": "B816",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1287
+							},
+							{
+								"x": 180,
+								"y": 1318
+							},
+							{
+								"x": 100,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "B22",
+				"words": [
+					{
+						"word": "B22",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 100,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1336
+							},
+							{
+								"x": 180,
+								"y": 1366
+							},
+							{
+								"x": 100,
+								"y": 1366
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 361,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1287
+							},
+							{
+								"x": 440,
+								"y": 1318
+							},
+							{
+								"x": 361,
+								"y": 1318
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"23. PRIOR AUTHORIZATION NUMBER": "88800999",
+			"24. SERVICES": [
+			{"MM1":"08", "DD1":"01", "YY1":"23", "CPT/HCPCS1":"C2544", "DIAGNOSIS POINTER1":"AB", "$CHARGES1":"44|54", "UNITS1":"001"},
+			{"MM2":"", "DD2":"", "YY2":"", "CPT/HCPCS2":"", "DIAGNOSIS POINTER2":"", "$CHARGES2":"", "UNITS2":""}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "44|54",
+			"29. AMOUNT PAID": "",
+			"32. SERVICE FACILITY LOCATION": "DR KIMERLEY'S DVC DETROIT BIG SQUARE, MI 60325 a. 52789956"
+		}
+	]
+}
